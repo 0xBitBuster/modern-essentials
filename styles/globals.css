@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: theme("fontFamily.open-sans"), sans-serif;
+}
+
+body {
+    background-color: #e6e1db;
+}
+
+::-moz-selection {
+	color: #fff;
+    background: theme('colors.secondary');
+}
+
+::selection {
+	color: #fff;
+    background: theme('colors.secondary');
+}
