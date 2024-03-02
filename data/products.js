@@ -98,7 +98,7 @@ module.exports = [
 	{
 		img: "https://m.media-amazon.com/images/I/81WBpTx6+jL._AC_SL400_.jpg",
 		title: "Sunset Lamp",
-		tags: ["🪑 Furniture", "💡 Lighting"],
+		tags: ["💡 Lighting"],
 		link: "https://www.amazon.com/Sunset-Projection-Lamp-Rotation-Projector/dp/B0925LXDSG"
 	},
 	{
@@ -116,7 +116,7 @@ module.exports = [
 	{
 		img: "https://m.media-amazon.com/images/I/71i8GFKEbAL._AC_SL400_.jpg",
 		title: "Airplane Lamp",
-		tags: ["🪑 Furniture", "💡 Lighting"],
+		tags: ["💡 Lighting"],
 		link: "https://www.amazon.com/Airplane-Night-Light-Illusion-Colors/dp/B08CV98S8L"
 	},
 	{
