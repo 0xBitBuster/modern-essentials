@@ -3,390 +3,390 @@ module.exports = [
 		img: "https://m.media-amazon.com/images/I/81myPowAACL._AC_SL400_.jpg",
 		title: "Smart Nightstand",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/Lvifur-Nightstand-Wireless-Furniture-Bedside/dp/B0BR5F3X22"
+		link: "https://amzn.to/4a8Uxyt"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71OkeQ0Q4wL._AC_SL400_.jpg",
 		title: "Smart Floating Nightstand",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/Floating-Nightstand-Nightstands-Charging-Bathroom/dp/B0BXDNZHTR"
+		link: "https://amzn.to/49LotRg"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61yyyKlvyhL._AC_SL400_.jpg",
 		title: "3 in 1 Charger Stand",
 		tags: ["🎮 Gaming"],
-		link: "https://www.amazon.com/Wireless-Charger-iPhone-Charging-Station/dp/B0C2BMNHW2"
+		link: "https://amzn.to/49K2LwW"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61sHXVsbXAL._AC_SL400_.jpg",
 		title: "Key Holder",
 		tags: ["🪑 Furniture", "💯 Decoration"],
-		link: "https://www.amazon.com/Lwenki-Holder-Decorative-Shelf-Large/dp/B09ZRT5QPG"
+		link: "https://amzn.to/3vdrB9v"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71Byr+aBZyL._AC_SL400_.jpg",
 		title: "Towel Holder",
 		tags: ["🪑 Furniture", "🚽 Bathroom"],
-		link: "https://www.amazon.com/Bathroom-Bedroom-Bathrobe-Cupboard-Sandblasted/dp/B08NJ5YHB4"
+		link: "https://amzn.to/3wJH5Tc"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/717IvpoNyZS._AC_SL400_.jpg",
 		title: "Sneaker Cupboard",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/sunvito-Saving-Organizer-Narrow-Entryway/dp/B098DDRDKQ"
+		link: "https://amzn.to/3TcelKe"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81raCS4VuJL._AC_SL400_.jpg",
 		title: "Floor Sofa",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/Cansunna-Beanbag-Fireside-Apartment-BROWNTEDDY/dp/B0CP1SFRVB"
+		link: "https://amzn.to/4c8Opb9"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81LJiDYYL9L._AC_SL400_.jpg",
 		title: "Boxing Kit",
 		tags: ["⚽ Sport"],
-		link: "https://www.amazon.com/Vkahaak-Punching-Unfilled-Kickboxing-Taekwondo/dp/B0BR6K49KH"
+		link: "https://amzn.to/3Pa0JhB"
 	},
 	{
-		img: "https://m.media-amazon.com/images/I/81uEVrkkggL._AC_SL400_.jpg",
+		img: "https://m.media-amazon.com/images/I/81-CjBDHEPL._SL400_.jpg",
 		title: "Music Boxing Machine",
 		tags: ["⚽ Sport"],
-		link: "https://www.amazon.com/Upgraded-Bluetooth-Parent-Child-Wall-Mounted-Equipment/dp/B0CS5FM1GY"
+		link: "https://amzn.to/49AzMf7"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61DPzsN1lCL._AC_SL400_.jpg",
 		title: "Acoustic Panels",
 		tags: ["🪑 Furniture", "🎮 Gaming"],
-		link: "https://www.amazon.com/Siless-Pack-Acoustic-Panels-Inches/dp/B0CLT6MLWF"
+		link: "https://amzn.to/3PdX16z"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/610FVKUbFqL._AC_SL400_.jpg",
 		title: "Pegboard",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/PEGZONE-Pegboard-Accessories-Magnetic-Organizer/dp/B0CJ9HJGLB"
+		link: "https://amzn.to/3Pge08q"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71KrG9+x6UL._AC_SL400_.jpg",
 		title: "LED Neon & RGB Lights",
 		tags: ["💡 Lighting", "🎮 Gaming"],
-		link: "https://www.amazon.com/Dimmable-Silicone-Heat-Resistant-Waterproof-Decoration/dp/B08CDJGRLQ"
+		link: "https://amzn.to/3v5uSrC"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61um5GmD7iL._AC_SL400_.jpg",
 		title: "Modern Floor Lamp",
 		tags: ["💡 Lighting", "🪑 Furniture"],
-		link: "https://www.amazon.com/UlSpeed-Clothing-Industrial-Space-Saving-Multi-Purpose/dp/B0998CRCFB"
+		link: "https://amzn.to/3Tsq6O7"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71lK9BweCBL._AC_SL400_.jpg",
 		title: "Clothing Rack",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/UlSpeed-Clothing-Industrial-Space-Saving-Multi-Purpose/dp/B0998CRCFB"
+		link: "https://amzn.to/3wT9iXA"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81HgUgx6EPL._AC_SL400_.jpg",
 		title: "Dresser",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/ODK-Dresser-Charging-Easy-Pull-Dressers/dp/B0BXX2P31M"
+		link: "https://amzn.to/3TcDWTo"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81QBUKGiSkL._AC_SL400_.jpg",
 		title: "Open Dresser",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/VIPEK-Shelving-Portable-Wardrobe-Organizer/dp/B07VCNS1JC"
+		link: "https://amzn.to/3VauwKN"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81WBpTx6+jL._AC_SL400_.jpg",
 		title: "Sunset Lamp",
 		tags: ["💡 Lighting"],
-		link: "https://www.amazon.com/Sunset-Projection-Lamp-Rotation-Projector/dp/B0925LXDSG"
+		link: "https://amzn.to/3V7HzN2"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61RHOk-QVbL._AC_SL400_.jpg",
 		title: "Xbox Mini Fridge",
 		tags: ["✈️ Traveling", "🎮 Gaming"],
-		link: "https://www.amazon.com/Xbox-Replica-Fridge-Thermoelectric-Cooler/dp/B09MDZ5QQZ"
+		link: "https://amzn.to/4a6z74O"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61ylKfbsX4S._AC_SL400_.jpg",
 		title: "Mini Basketball Hoop",
 		tags: ["⚽ Sport"],
-		link: "https://www.amazon.com/TREYWELL-Indoor-Basketball-Electronic-Scoreboard/dp/B08HJYGV2G"
+		link: "https://amzn.to/3VaVlOV"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71i8GFKEbAL._AC_SL400_.jpg",
 		title: "Airplane Lamp",
 		tags: ["💡 Lighting"],
-		link: "https://www.amazon.com/Airplane-Night-Light-Illusion-Colors/dp/B08CV98S8L"
+		link: "https://amzn.to/3uRN0Fm"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/613bCHlrkqL._AC_SL400_.jpg",
 		title: "LED Display Shelf",
 		tags: ["🪑 Furniture", "💡 Lighting"],
-		link: "https://www.amazon.com/FENLO-Fancy-Display-Cabinet-Brightness/dp/B0BQLD1R8Y"
+		link: "https://amzn.to/4a2k5NF"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81znwyalKxL._AC_SL400_.jpg",
 		title: "Hexagon Floating Shelves",
 		tags: ["🪑 Furniture"],
-		link: "https://www.amazon.com/WONFUlity-Floating-Farmhouse-Honeycomb-Driftwood/dp/B0BVV2JW62"
+		link: "https://amzn.to/49Wssug"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61TILGnUFTL._AC_SL400_.jpg",
 		title: "Bonsai Tree",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/Artificial-Japanese-Decoration-Bathroom-Farmhouse/dp/B08L35KBF6"
+		link: "https://amzn.to/4a47yZZ"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81g3YSvD00L._AC_SL400_.jpg",
 		title: "LEGO Bonsai Tree",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/LEGO-Building-Project-Beautiful-Display/dp/B08HVXZW8X"
+		link: "https://amzn.to/43cBz7y"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61RKRBHZ4-L._AC_SL400_.jpg",
 		title: "Mountain Canvas Wall Art",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/BINCUE-Framed-Mountain-Painting-Bedroom/dp/B0C5HVK4LD"
+		link: "https://amzn.to/3wOxyKI"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71d2GJpHGYL._AC_SL400_.jpg",
 		title: "Cat Candle Holder",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/Cartoon-Kitten-Candle-Holder-Candlestick/dp/B0CS9JXZS2"
+		link: "https://amzn.to/3wN1Qxm"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61bspq4zW8L._AC_SL400_.jpg",
 		title: "Dog Statue & Tray Holder",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/Bulldog-Storage-Jewelry-Earrings-Suitable/dp/B09SG6LS81"
+		link: "https://amzn.to/439kf3n"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81GRK61SpiL._AC_SL400_.jpg",
 		title: "Plasma Globe Lamp",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/DISCOVERY-Interactive-Electronic-Sensitive-Kids/dp/B07JN136NS"
+		link: "https://amzn.to/3T9T8Rp"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/719ZWwqpWNL._AC_SL400_.jpg",
 		title: "Floating Plant Pot",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/BandD-Floating-Plant-Pot-Levitating/dp/B091WYF4XF"
+		link: "https://amzn.to/4ciXzlE"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71l08u93zoL._AC_SL400_.jpg",
 		title: "Plant Stand",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/Outdoor-iDavosic-ly-Foldable-Multiple-Rustproof/dp/B0B9WFTG1H"
+		link: "https://amzn.to/3v6EySD"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/711TGnthkpL._AC_SL400_.jpg",
 		title: "Monkey Lamp",
 		tags: ["💯 Decoration", "💡 Lighting"],
-		link: "https://www.amazon.com/TFCFL-Vintage-Chandelier-Industrial-Decorative/dp/B08S6XP62T"
+		link: "https://amzn.to/3wJ8yVc"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71f8lEaX-CL._AC_SL400_.jpg",
 		title: "Good Vibes Neon Sign",
 		tags: ["💯 Decoration", "💡 Lighting"],
-		link: "https://www.amazon.com/Vibes-Signs-Decor%EF%BC%8CPowered-Light-Bedroom/dp/B09T5S8K4F"
+		link: "https://amzn.to/3v6PmA7"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/717B4xHMDMS._AC_SL400_.jpg",
 		title: "Cloud Neon Sign",
 		tags: ["💯 Decoration", "💡 Lighting"],
-		link: "https://www.amazon.com/JTLMEEN-Battery-Powered-Bedroom-Aesthetic/dp/B094F8S459"
+		link: "https://amzn.to/3Vd3mD0"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61VVfi5XBZL._AC_SL400_.jpg",
 		title: "Cat Neon Sign",
 		tags: ["💯 Decoration", "💡 Lighting"],
-		link: "https://www.amazon.com/Powered-Decoration-Christmas-Wedding-Birthday/dp/B0BPFYXMYJ"
+		link: "https://amzn.to/3uTU3xf"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71Rg4ntQERL._AC_SL400_.jpg",
 		title: "Money Dollar Rug",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/Dollar-Kitchen-Laundry-Bedroom-Bathroom/dp/B08JYR9TRS"
+		link: "https://amzn.to/3IOHOW9"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81+oxq-IamL._AC_SL400_.jpg",
 		title: "UNO Card Rug",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/Estmy-Aesthetic-2x3-Washable-Housewarming/dp/B0C3C46M2M"
+		link: "https://amzn.to/439Vap6"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81B3Y2gNn6L._AC_SL400_.jpg",
 		title: "8 Ball Rug",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/colorthesports-Billboard-Non-Slip-Flocking-Doormat/dp/B0BXND8GZN"
+		link: "https://amzn.to/3uZVN89"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71aDcMFbpLL._AC_SL400_.jpg",
 		title: "Explosion Lamp",
 		tags: ["💯 Decoration", "💡 Lighting"],
-		link: "https://www.amazon.com/Mushroom-Ornament-Atmospheric-Childrens-Christmas/dp/B0CMCX2JWF"
+		link: "https://amzn.to/3TDanMt"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71hPFiEFSdL._AC_SL400_.jpg",
 		title: "Star Projector",
 		tags: ["💡 Lighting", "🎮 Gaming"],
-		link: "https://www.amazon.com/Projector-Astronaut-Christmas-Valentines-Black/dp/B0C6JQ9XDP"
+		link: "https://amzn.to/3TuuMTu"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/51O8Lka+YcL._AC_SL400_.jpg",
 		title: "Pen Holder",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/YOSCO-Silicone-Geometric-Desktop-Organizer/dp/B08MF88DMG"
+		link: "https://amzn.to/3wWqdZi"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/51DLBL7XgAL._AC_SL400_.jpg",
 		title: "Mini Portable Fan",
 		tags: ["✈️ Traveling"],
-		link: "https://www.amazon.com/SWEETFULL-Portable-Powerful-Handheld-Rechargeable/dp/B0BR3HFJZB"
+		link: "https://amzn.to/3Tsxs44"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61SzciZ2qgL._AC_SL400_.jpg",
 		title: "LED Clock",
 		tags: ["💯 Decoration", "💡 Lighting", "🎮 Gaming"],
-		link: "https://www.amazon.com/Mooas-White-Multi-Function-Calendar-Temperature/dp/B07QCRDWJ3"
+		link: "https://amzn.to/3TpXbds"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81sv1RptjsL._SL400_.jpg",
 		title: "LEGO Brick Drawer",
 		tags: ["💯 Decoration", "🪑 Furniture"],
-		link: "https://www.amazon.com/LEGO-Brick-Drawer-Stackable-Storage/dp/B0778STBWD"
+		link: "https://amzn.to/3uV7L2W"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61VIRBa0isL._AC_SL400_.jpg",
 		title: "Container Locker & Table",
 		tags: ["💯 Decoration", "🪑 Furniture"],
-		link: "https://www.amazon.com/ZHAOYONGLI-Tables-Industrial-Wrought-Creative/dp/B07VHK4WJF"
+		link: "https://amzn.to/49HjMI9"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71LIZT3klQL._AC_SL400_.jpg",
 		title: "Laundry Hoop",
 		tags: ["💯 Decoration", "⚽ Sport"],
-		link: "https://www.amazon.com/Etna-Over-The-Door-Basketball-Hamper/dp/B01DKSEFIG"
+		link: "https://amzn.to/49H4ROj"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/51gfTgYuuiL._AC_SL400_.jpg",
 		title: "COD: Controller Holder",
 		tags: ["💯 Decoration", "🎮 Gaming"],
-		link: "https://www.amazon.com/Exquisite-Gaming-Warzone-Mobile-Controller/dp/B09N59Y2JN"
+		link: "https://amzn.to/3T8hLxM"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61ruf-h7BPL._AC_SL400_.jpg",
 		title: "Controller Holder",
 		tags: ["💯 Decoration", "🎮 Gaming"],
-		link: "https://www.amazon.com/Controller-Holder-Universal-Aluminum-Accessories/dp/B0CLCVNB1S"
+		link: "https://amzn.to/3uV7Gwa"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61FzJmeGpCL._AC_SL400_.jpg",
 		title: "Headphone Holder",
 		tags: ["💯 Decoration", "🎮 Gaming"],
-		link: "https://www.amazon.com/Deear-Headphone-Universal-Supporting-HSW3601/dp/B0C7FW2SGX"
+		link: "https://amzn.to/4a4ro7l"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/91DkRarNKCS._AC_SL400_.jpg",
 		title: "Game Storage Rack",
 		tags: ["💯 Decoration", "🎮 Gaming"],
-		link: "https://www.amazon.com/Game-Storage-Tower-Universal-Nintendo/dp/B08QGYN4TC"
+		link: "https://amzn.to/49ZB6b2"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71n-Ud9pbPL._AC_SL400_.jpg",
 		title: "LEGO Porsche Car",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/LEGO-Champions-Porsche-Building-Pieces/dp/B07PX3WGP1"
+		link: "https://amzn.to/3TcIWHw"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/811CCX9zcML._AC_SL400_.jpg",
 		title: "LEGO McLaren Car",
 		tags: ["💯 Decoration"],
-		link: "https://www.amazon.com/LEGO-Technic-Building-Authentic-Supercar/dp/B08HW1SDVD"
+		link: "https://amzn.to/49WsRwM"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71-jwurO96L._AC_SL400_.jpg",
 		title: "LEGO Bouquet of Roses",
 		tags: ["💌 Love", "💯 Decoration"],
-		link: "https://www.amazon.com/LEGO-Artificial-Anniversary-Botanical-Collection/dp/B0CGY4X222"
+		link: "https://amzn.to/3PcTJR6"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61xIPzRIbRL._AC_SL400_.jpg",
 		title: "Glitter Roses",
 		tags: ["💌 Love", "💯 Decoration"],
-		link: "https://www.amazon.com/Artificial-Flowers-IPOPU-Glitter-Decoration/dp/B09KXCMHCS"
+		link: "https://amzn.to/3Pa1Aij"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71T21PpOEjL._AC_SL400_.jpg",
 		title: "LED Mirror",
 		tags: ["💯 Decoration", "🚽 Bathroom"],
-		link: "https://www.amazon.com/Amorho-Bathroom-Shatter-Proof-Frameless-Front-Lighted/dp/B08PFHZDTS"
+		link: "https://amzn.to/3Iv4gTV"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81Pmz2AB46L._AC_SL400_.jpg",
 		title: "Bear Toilet Paper Holder",
 		tags: ["💯 Decoration", "🚽 Bathroom"],
-		link: "https://www.amazon.com/Collections-Etc-Northwoods-Toilet-Holder/dp/B00U0GYUG4"
+		link: "https://amzn.to/4a21kd6"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71hD8p73AJL._AC_SL400_.jpg",
 		title: "Modern Shower Head",
 		tags: ["🚽 Bathroom"],
-		link: "https://www.amazon.com/Pressure-Adjustable-Extension-Settings-Handheld/dp/B09DP5C734"
+		link: "https://amzn.to/48GxyJS"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71SRFjr8vKL._AC_SL400_.jpg",
 		title: "Digital Mirror",
 		tags: ["🚽 Bathroom"],
-		link: "https://www.amazon.com/BYECOLD-Bluetooth-Defogging-Temperature-Display-Horizontal/dp/B08Y8P452Z"
+		link: "https://amzn.to/3PdY5HB"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71+r5j-y+LL._AC_SL400_.jpg",
 		title: "Silk Bed Sheets",
 		tags: ["✈️ Traveling"],
-		link: "https://www.amazon.com/MR-HM-Sheets-Bedding-Mattress/dp/B08HM6WT6X"
+		link: "https://amzn.to/49ZTVLk"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71dbsWSSj3L._AC_SL400_.jpg",
 		title: "Towel Rack",
 		tags: ["💯 Decoration", "🚽 Bathroom"],
-		link: "https://www.amazon.com/Bathroom-Mounted-Xstydes-Folding-Organizer/dp/B0BS5X7B8F"
+		link: "https://amzn.to/3Pf8EKm"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71iMvlsmyeL._AC_SL400_.jpg",
 		title: "Bathtub Tray",
 		tags: ["✈️ Traveling", "🚽 Bathroom"],
-		link: "https://www.amazon.com/XcE-Bathtub-Caddy-Bamboo-Experience/dp/B084SXRJD2"
+		link: "https://amzn.to/3T9Tyar"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61jWkie6-wL._AC_SL400_.jpg",
 		title: "Titanium Luggage",
 		tags: ["✈️ Traveling"],
-		link: "https://www.amazon.com/Delsey-Luggage-Titanium-Spinner-Trolley/dp/B00MQF0QTM"
+		link: "https://amzn.to/3T7ZpwM"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81S533RgkwL._AC_SL400_.jpg",
 		title: "Apple AirPods Max",
 		tags: ["✈️ Traveling"],
-		link: "https://www.amazon.com/dp/B08PZHYWJS"
+		link: "https://amzn.to/3PcRBsD"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/61jcsHsFN8L._AC_SL400_.jpg",
 		title: "Apple AirPods",
 		tags: ["✈️ Traveling"],
-		link: "https://www.amazon.com/dp/B0BDHB9Y8H"
+		link: "https://amzn.to/3v5anLA"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/5189Rfw0b1L._AC_SX400_.jpg",
 		title: "Duffle Bag",
 		tags: ["✈️ Traveling"],
-		link: "https://www.amazon.com/Under-Armour-unisex-adult-Undeniable-Metallic/dp/B093LPX4G1"
+		link: "https://amzn.to/3PcU2eI"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81xsbzDFUpL._AC_SL400_.jpg",
 		title: "Tech Case",
 		tags: ["✈️ Traveling"],
-		link: "https://www.amazon.com/Bevegekos-Universal-Electronics-Accessories-Waterproof/dp/B08V52PJ6V"
+		link: "https://amzn.to/3Tsr1y3"
 	},
 ]

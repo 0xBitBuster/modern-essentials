@@ -50,7 +50,7 @@ export default function Home() {
                                                         height={150}
                                                         className="rounded-t-xl w-full object-contain duration-200 scale-95"
                                                     />
-                                                    <h3 className="font-medium px-4 py-3 bg-white group-hover:text-primary">{i.title}</h3>
+                                                    <h3 className="font-medium px-4 pt-1 pb-3 bg-white group-hover:text-primary">{i.title}</h3>
                                                 </div>
                                             </div>
                                         </Link>
