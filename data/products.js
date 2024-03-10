@@ -90,6 +90,18 @@ module.exports = [
 		link: "https://amzn.to/3TcDWTo"
 	},
 	{
+		img: "https://m.media-amazon.com/images/I/81Vwx795VmL._AC_SL400_.jpg",
+		title: "Cap Organizer Racks",
+		tags: ["🪑 Furniture"],
+		link: "https://amzn.to/3wPtFVR"
+	},
+	{
+		img: "https://m.media-amazon.com/images/I/81WCQPZH6HL._AC_SL400_.jpg",
+		title: "Tree Bookshelf",
+		tags: ["🪑 Furniture"],
+		link: "https://amzn.to/4c6ntZJ"
+	},
+	{
 		img: "https://m.media-amazon.com/images/I/81QBUKGiSkL._AC_SL400_.jpg",
 		title: "Open Dresser",
 		tags: ["🪑 Furniture"],
@@ -240,6 +252,12 @@ module.exports = [
 		link: "https://amzn.to/3wWqdZi"
 	},
 	{
+		img: "https://m.media-amazon.com/images/I/71B2uDSvrIL._AC_SL400_.jpg",
+		title: "Anti Gravity Wine Holder",
+		tags: ["💯 Decoration"],
+		link: "https://amzn.to/48PH0e6"
+	},
+	{
 		img: "https://m.media-amazon.com/images/I/51DLBL7XgAL._AC_SL400_.jpg",
 		title: "Mini Portable Fan",
 		tags: ["✈️ Traveling"],
@@ -250,6 +268,12 @@ module.exports = [
 		title: "LED Clock",
 		tags: ["💯 Decoration", "💡 Lighting", "🎮 Gaming"],
 		link: "https://amzn.to/3TpXbds"
+	},
+	{
+		img: "https://m.media-amazon.com/images/I/51ppBjq0PXL._AC_SL400_.jpg",
+		title: "Mario Block Lamp",
+		tags: ["💯 Decoration", "💡 Lighting", "🎮 Gaming"],
+		link: "https://amzn.to/3T9yXTu"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/81sv1RptjsL._SL400_.jpg",
@@ -330,6 +354,12 @@ module.exports = [
 		link: "https://amzn.to/4a21kd6"
 	},
 	{
+		img: "https://m.media-amazon.com/images/I/81oUVtDgPPL._AC_SL400_.jpg",
+		title: "Tissue Box Holder",
+		tags: ["💯 Decoration", "🚽 Bathroom"],
+		link: "https://amzn.to/439y69S"
+	},
+	{
 		img: "https://m.media-amazon.com/images/I/71hD8p73AJL._AC_SL400_.jpg",
 		title: "Modern Shower Head",
 		tags: ["🚽 Bathroom"],
@@ -352,6 +382,18 @@ module.exports = [
 		title: "Towel Rack",
 		tags: ["💯 Decoration", "🚽 Bathroom"],
 		link: "https://amzn.to/3Pf8EKm"
+	},
+	{
+		img: "https://m.media-amazon.com/images/I/71QwDkoz9sL._AC_SL400_.jpg",
+		title: "Mini Aquarium",
+		tags: ["💯 Decoration"],
+		link: "https://amzn.to/49MUNmM"
+	},
+	{
+		img: "https://m.media-amazon.com/images/I/71n2BcpyLQL._AC_SL400_.jpg",
+		title: "Camping Hammock",
+		tags: ["✈️ Traveling"],
+		link: "https://amzn.to/3VcqlOt"
 	},
 	{
 		img: "https://m.media-amazon.com/images/I/71iMvlsmyeL._AC_SL400_.jpg",
